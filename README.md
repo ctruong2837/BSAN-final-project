@@ -10,11 +10,11 @@ Dataset name : reviews_1250-end.csv
 Description :
 The dataset contains tens of thousands of online skincare product reviews, including star ratings, recommendation status, product prices, skin type information, and review text.
 
-Size:
+Size :
 Original dataset : ~50,000 reviews
-Final cleaned dataset used in analysis: 26,108 reviews
+Final cleaned dataset used in analysis : 26,108 reviews
 
-Source:
+Source :
 Public skincare review dataset (original source provided in course materials)
 
 Research Questions
@@ -25,9 +25,9 @@ Does product size (mini vs full-size) affect ratings?
 Are higher-rated products more likely to be recommended?
 
 Methods & Tools
-Language: Python
-Environment: Jupyter Notebook
-Libraries Used:
+Language : Python
+Environment : Jupyter Notebook
+Libraries Used :
 pandas
 numpy
 matplotlib
