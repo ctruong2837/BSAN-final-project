@@ -5,13 +5,13 @@ This project analyzes a large dataset of skincare product reviews to better unde
 The analysis was completed using Python in Jupyter Notebook and focuses on uncovering practical insights that could be useful for both consumers and skincare brands.
 
 Dataset
-Dataset name: reviews_1250-end.csv
+Dataset name : reviews_1250-end.csv
 
-Description:
+Description :
 The dataset contains tens of thousands of online skincare product reviews, including star ratings, recommendation status, product prices, skin type information, and review text.
 
 Size:
-Original dataset: ~50,000 reviews
+Original dataset : ~50,000 reviews
 Final cleaned dataset used in analysis: 26,108 reviews
 
 Source:
@@ -45,8 +45,8 @@ Product size significantly impacts ratings, with full-size products receiving hi
 A large majority of products are recommended, aligning with the overall high ratings.
 
 Repository Structure
-Lab 4.ipynb – Jupyter Notebook containing all data cleaning, analysis, and visualizations
-BSAN 360 Final Presentation.pptx – Presentation slides summarizing the project
+Lab 4.ipynb : Jupyter Notebook containing all data cleaning, analysis, and visualizations
+BSAN 360 Final Presentation.pptx : Presentation slides summarizing the project
 
 How to Run This Project
 Download or clone the repository.
